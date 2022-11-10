@@ -38,7 +38,7 @@ header {
 
 .logo {
     display: inline-block;
-    background-image: url(image/logo-2011.png);
+    background-image: url("../image/logo-2011.png");
     background-size: cover;
     width: 122px;
     height: 48px;
@@ -96,27 +96,27 @@ header {
 }
 
 .nim1 {
-    background-image: url("image/bell.png");
+    background-image: url("../image/bell.png");
 }
 
 .nim1:hover {
-    background-image: url("image/bell\ \(1\).png");
+    background-image: url("../image/bell\ \(1\).png");
 }
 
 .nim2 {
-    background-image: url("image/user\ \(2\).png");
+    background-image: url("../image/user\ \(2\).png");
 }
 
 .nim2:hover {
-    background-image: url("image/user\ \(3\).png");
+    background-image: url("../image/user\ \(3\).png");
 }
 
 .nim3 {
-    background-image: url("image/grocery-store.png");
+    background-image: url("../image/grocery-store.png");
 }
 
 .nim3:hover {
-    background-image: url("image/grocery-store\ \(1\).png");
+    background-image: url("../image/grocery-store\ \(1\).png");
 }
 
 .wrap {
@@ -150,7 +150,7 @@ header {
     height: 18px;
     background-color: transparent;
     outline:none;
-    background-image: url("image/magnifying-glass.png");
+    background-image: url("../image/magnifying-glass.png");
     background-size: cover;
     cursor: pointer; 
     position: absolute;
@@ -186,18 +186,18 @@ header {
   }
   
   .slide:nth-of-type(1) {
-    background-image: url(image/56308_3P588_1180X630_221108_TW.jpg);
+    background-image: url("../image/56308_3P588_1180X630_221108_TW.jpg");
     background-size:cover;
   }
   
   .slide:nth-of-type(2) {
-    background-image: url(image/56339_JACKET_1180X630_221107_TW.jpg);
+    background-image: url("../image/56339_JACKET_1180X630_221107_TW.jpg");
     background-size: cover;
     left: 100%;
   }
   
   .slide:nth-of-type(3) {
-    background-image: url(image/58747_1P249_1180X630_221107_TW.jpg);
+    background-image: url("../image/58747_1P249_1180X630_221107_TW.jpg");
     background-size: cover;
     left: 200%;
   }
@@ -261,25 +261,25 @@ header {
 .ad1 {
     grid-row: 1/span 4;
     grid-column: 1/1;
-    background-image: url(image/58085_58088_1200_220911a_490_TW_s.png);
+    background-image: url("../image/58085_58088_1200_220911a_490_TW_s.png");
 }
 
 .ad2 {
     grid-row: 1/span 5;
     grid-column: 2/2;
-    background-image: url(image/58908_1200_220922_TW_0_s.jpg);
+    background-image: url("../image/58908_1200_220922_TW_0_s.jpg");
 }
 
 .ad3 {
     grid-row: 5/span 9;
     grid-column: 1/1;
-    background-image: url(image/56233_1200_220907_TW_1_s.jpg);
+    background-image: url("../image/56233_1200_220907_TW_1_s.jpg");
 }
 
 .ad4 {
     grid-row: 6/span 8;
     grid-column: 2/2;
-    background-image: url(image/FS_1200_211019_TW1118_s.jpg);
+    background-image: url("../image/FS_1200_211019_TW1118_s.jpg");
 }
 
 footer {
@@ -318,19 +318,19 @@ h6 {
 }
 
 .im1 {
-    background-image: url(image/Rectangle\ 90.png);
+    background-image: url("../image/Rectangle\ 90.png");
     width: 60px;
     height: 60px;
 }
 
 .im2 {
-    background-image: url(image/Group\ 4.png);
+    background-image: url("../image/Group\ 4.png");
     width: 60px;
     height: 60px;
 }
 
 .im3 {
-    background-image: url(image/Group\ 5.png);
+    background-image: url("../image/Group\ 5.png");
     width: 60px;
     height: 60px;
 }

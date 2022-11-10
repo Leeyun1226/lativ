@@ -40,7 +40,7 @@ header {
 
 .logo {
   display: inline-block;
-  background-image: url("image/logo-2011.png");
+  background-image: url("../image/logo-2011.png");
   background-size: cover;
   width: 122px;
   height: 48px;
@@ -85,27 +85,27 @@ header {
 }
 
 .nim1 {
-  background-image: url("image/bell.png");
+  background-image: url("../image/bell.png");
 }
 
 .nim1:hover {
-  background-image: url("image/bell (1).png");
+  background-image: url("../image/bell (1).png");
 }
 
 .nim2 {
-  background-image: url("image/user (2).png");
+  background-image: url("../image/user (2).png");
 }
 
 .nim2:hover {
-  background-image: url("image/user (3).png");
+  background-image: url("../image/user (3).png");
 }
 
 .nim3 {
-  background-image: url("image/grocery-store.png");
+  background-image: url("../image/grocery-store.png");
 }
 
 .nim3:hover {
-  background-image: url("image/grocery-store (1).png");
+  background-image: url("../image/grocery-store (1).png");
 }
 
 .wrap {
@@ -139,7 +139,7 @@ header {
   height: 18px;
   background-color: transparent;
   outline: none;
-  background-image: url("image/magnifying-glass.png");
+  background-image: url("../image/magnifying-glass.png");
   background-size: cover;
   cursor: pointer;
   position: absolute;
@@ -218,7 +218,7 @@ header {
   cursor: pointer;
   width: 40px;
   height: 40px;
-  background-image: url(image/Rectangle\ 129.png);
+  background-image: url("../image/Rectangle 129.png");
   outline: none;
   border: 0;
 }
@@ -227,7 +227,7 @@ header {
   cursor: pointer;
   width: 40px;
   height: 40px;
-  background-image: url(image/Rectangle\ 97.png);
+  background-image: url("../image/Rectangle 97.png");
   outline: none;
   border: 0;
 }
@@ -236,7 +236,7 @@ header {
   cursor: pointer;
   width: 40px;
   height: 40px;
-  background-image: url(image/Rectangle\ 130.png);
+  background-image: url("../image/Rectangle 130.png");
   outline: none;
   border: 0;
 }
@@ -245,7 +245,7 @@ header {
   cursor: pointer;
   width: 40px;
   height: 40px;
-  background-image: url(image/Rectangle\ 131.png);
+  background-image: url("../image/Rectangle 131.png");
   outline: none;
   border: 0;
 }
@@ -254,7 +254,7 @@ header {
   cursor: pointer;
   width: 40px;
   height: 40px;
-  background-image: url(image/Rectangle\ 132.png);
+  background-image: url("../image/Rectangle 132.png");
   outline: none;
   border: 0;
 }
@@ -263,7 +263,7 @@ header {
   cursor: pointer;
   width: 40px;
   height: 40px;
-  background-image: url(image/Rectangle\ 133.png);
+  background-image: url("../image/Rectangle 133.png");
   outline: none;
   border: 0;
 }
@@ -272,7 +272,7 @@ header {
   cursor: pointer;
   width: 45px;
   height: 43px;
-  background-image: url(image/Group\ 8.png);
+  background-image: url("../image/Group 8.png");
   background-size: cover;
   outline: none;
   border: 0;
@@ -283,7 +283,7 @@ header {
   cursor: pointer;
   width: 46px;
   height: 43px;
-  background-image: url(image/Group\ 9.png);
+  background-image: url("../image/Group 9.png");
   background-size: cover;
   outline: none;
   border: 0;
@@ -294,7 +294,7 @@ header {
   cursor: pointer;
   width: 45px;
   height: 43px;
-  background-image: url(image/Group\ 20.png);
+  background-image: url("../image/Group 20.png");
   background-size: cover;
   outline: none;
   border: 0;
@@ -305,7 +305,7 @@ header {
   cursor: pointer;
   width: 45px;
   height: 43px;
-  background-image: url(image/Group\ 11.png);
+  background-image: url("../image/Group 11.png");
   background-size: cover;
   outline: none;
   border: 0;
@@ -316,7 +316,7 @@ header {
   cursor: pointer;
   width: 46px;
   height: 43px;
-  background-image: url(image/Group\ 12.png);
+  background-image: url("../image/Group 12.png");
   background-size: cover;
   outline: none;
   border: 0;
@@ -324,23 +324,23 @@ header {
 }
 
 .size1:hover {
-  background-image: url(image/Group\ 15.png);
+  background-image: url("../image/Group 15.png");
 }
 
 .size2:hover {
-  background-image: url(image/Group\ 17.png);
+  background-image: url("../image/Group 17.png");
 }
 
 .size3:hover {
-  background-image: url(image/Group\ 10.png);
+  background-image: url("../image/Group 10.png");
 }
 
 .size4:hover {
-  background-image: url(image/Group\ 18.png);
+  background-image: url("../image/Group 18.png");
 }
 
 .size5:hover {
-  background-image: url(image/Group\ 19.png);
+  background-image: url("../image/Group 19.png");
 }
 
 .title {
@@ -407,7 +407,7 @@ header {
   margin: 6em 1em;
   width: 265px;
   height: 55px;
-  background-image: url(image/Group\ 7.png);
+  background-image: url("../image/Group 7.png");
   background-size: cover;
   outline: none;
   border: 0;
@@ -461,19 +461,19 @@ h6 {
 }
 
 .im1 {
-  background-image: url(image/Rectangle\ 90.png);
+  background-image: url("../image/Rectangle 90.png");
   width: 60px;
   height: 60px;
 }
 
 .im2 {
-  background-image: url(image/Group\ 4.png);
+  background-image: url("../image/Group 4.png");
   width: 60px;
   height: 60px;
 }
 
 .im3 {
-  background-image: url(image/Group\ 5.png);
+  background-image: url("../image/Group 5.png");
   width: 60px;
   height: 60px;
 }/*# sourceMappingURL=cloth.css.map */
