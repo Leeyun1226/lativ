@@ -15,6 +15,12 @@ a {
 }
 
 header {
+    position: fixed;
+    top: 0;
+    height: 70px;
+    width: 1180px;
+    background-color: white;
+    z-index: 1;
     padding-top: 2.5em;
     margin-bottom: 1em;
 }
@@ -144,7 +150,7 @@ header {
    }
 
 .commodity {
-    margin: 4em 0;
+    margin: calc(110px + 4em) 0;
     display: flex;
     justify-content: flex-start;
 }

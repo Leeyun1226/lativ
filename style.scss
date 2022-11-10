@@ -15,6 +15,12 @@ a {
 }
 
 header {
+    position: fixed;
+    top: 0;
+    height: 70px;
+    width: 1180px;
+    background-color: white;
+    z-index: 1;
     padding-top: 2.5em;
     margin-bottom: 1em;
 }
@@ -151,7 +157,9 @@ header {
     top: 0.3em;
     right: 0.3em; 
    }
-
+   .pageContent{
+    margin-top: 110px;
+   }
    ul.slides {
     position: relative;
     width: 100%;
